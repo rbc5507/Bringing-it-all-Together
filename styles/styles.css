@@ -7,7 +7,7 @@
   --bs-primary: var(--brand-red);
   --bs-success: var(--brand-green);
   --bs-link-color: var(--brand-red);
-  --bs-link-hover-color: #7f0e1a;
+  --bs-link-hover-color: white;
 }
 
 .site-header {
@@ -18,7 +18,7 @@
   background: rgba(255,255,255,.8);
   z-index: 10;
 }
-.logo-mark { filter: drop-shadow(0 2px 2px rgba(0,0,0,.25)); } /* filter #2 */
+.logo-mark { filter: drop-shadow(0 2px 2px rgba(0,0,0,.25)); } 
 
 #mission {
   border-left: 4px solid var(--brand);
